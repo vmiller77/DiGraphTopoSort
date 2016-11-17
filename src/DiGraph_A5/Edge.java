@@ -18,6 +18,7 @@ public class Edge {
 	public String getPair(){
 		return "Start: "+start.getName()+" End: "+end.getName();
 	}
+	//this is a test to see if our github repo has been set up properly!
 	
 	public long getId(){
 		return id;
